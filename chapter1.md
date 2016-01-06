@@ -1,5 +1,4 @@
 # First Chapter
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
-
+This chapter will create a paradox of the challenges, problem and factors effect the farmer and investor.
 
